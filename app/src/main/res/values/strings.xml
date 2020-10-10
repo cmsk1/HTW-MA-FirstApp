@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Grundlagen MA</string>
+    <string name="nav_header_subtitle">s0572847@htw-berlin.de</string>
+    <string name="nav_header_desc">Überschrift</string>
+    <string name="action_settings">Einstellungen</string>
+
+    <string name="menu_home">Start</string>
+    <string name="menu_gallery">Menüpunkt 1</string>
+    <string name="menu_slideshow">Menüpunkt 2</string>
+</resources>
